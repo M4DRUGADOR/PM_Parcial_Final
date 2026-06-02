@@ -1,0 +1,7 @@
+db\Conexion.class
+model\Mago.class
+view\Menu.class
+model\Guerrero.class
+model\Personaje.class
+controller\JuegoController.class
+model\Arquero.class
